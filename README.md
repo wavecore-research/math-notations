@@ -1,4 +1,4 @@
-# math-notations
+# Math Notations
 Mathematical notations used in our work.
 
 
