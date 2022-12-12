@@ -22,4 +22,5 @@ Used LaTex commands:
 \newcommand{\expt}[1]{\mathbb{E} \left\{#1\right\}}
 \newcommand{\cn}[2]{\ensuremath{\sim\mathcal{C}\mathcal{N}\left(#1,#2\right)}}
 \newcommand{\norm}[1]{\left\lVert#1\right\rVert}
+\newcommand{\normalized}[1]{\bar{#1}}
 ```
